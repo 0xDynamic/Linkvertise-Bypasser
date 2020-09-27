@@ -2,7 +2,7 @@
 
 A bypasser for linkvertise by RoseryRET 🌹
 
-![Made with love by d3f4ult](https://madewithlove.now.sh/pl?heart=true)
+![Made with love in RoseryRET](https://madewithlove.now.sh/jp?heart=true&colorA=%23ffffff&colorB=%23de4353&template=social&text=RoseryRET)
 
 ## Features
 * Paste (Automatically grab the text from your clipboard and then set it as input text)
