@@ -1,6 +1,6 @@
 # Rosery Linkvertise-Bypasser 🌹
 
-A bypasser for linkvertise by RoseryRET 🌹
+A bypasser for linkvertise by RoseryRET 🌹 (No longer work because I'm too lazy to update it)
 
 ![Made with love in RoseryRET](https://madewithlove.now.sh/jp?heart=true&colorA=%23515151&colorB=%23de4353&template=for-the-badge&text=RoseryRET)
 
